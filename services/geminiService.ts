@@ -1,0 +1,1 @@
+// 此文件已废弃。请使用根目录的 geminiService.ts
